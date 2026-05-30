@@ -1,1 +1,9 @@
-Its enhance and easy to make a app with agent and the updater update offical docs when yoou run this and auto paste in md so  no extra bugs no wasting time in agent just say read this and make a {app} Thanks
+This tool makes app development with AI agents significantly faster and more reliable.
+
+It automatically fetches and updates the latest official documentation whenever you run it, then injects the relevant information directly into your Markdown files. This ensures the agent always works with up-to-date references, reducing outdated code, unnecessary bugs, and wasted development time.
+
+Instead of spending hours explaining requirements, configuring context, or fixing documentation-related issues, you can simply say:
+
+"Read this and build a {your app idea}."
+
+The agent will use the latest official sources, follow current best practices, and generate more accurate results with minimal prompting.
