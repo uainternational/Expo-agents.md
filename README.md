@@ -1,4 +1,4 @@
-This tool makes app development with AI agents significantly faster and more reliable.
+This agents.md makes app development with AI agents significantly faster and more reliable.
 
 It automatically fetches and updates the latest official documentation whenever you run it, then injects the relevant information directly into your Markdown files. This ensures the agent always works with up-to-date references, reducing outdated code, unnecessary bugs, and wasted development time.
 
